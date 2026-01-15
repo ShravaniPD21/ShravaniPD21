@@ -2,7 +2,8 @@
 
 🎓 Final-year Engineering student  
 💻 Interested in Software Development & Problem Solving  
-🚀 Actively preparing for SDE roles  
+🚀 Actively preparing for SDE roles 
+✨ Upcoming Analyst at Capgemini!
 
 ---
 
@@ -11,6 +12,7 @@
 - Web: HTML, CSS, JavaScript
 - Databases: MySQL, PL/SQL, MongoDB
 - Tools: Git, GitHub
+- Other Interests: Data Science, Data Analysis
 
 ---
 
