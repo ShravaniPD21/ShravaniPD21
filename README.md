@@ -21,7 +21,7 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShravaniPD21&show_icons=true)
+![GitHub Stats](https://github.com/ShravaniPD21)
 
 ---
 
