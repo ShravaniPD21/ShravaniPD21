@@ -2,8 +2,9 @@
 
 🎓 Final-year Engineering student  
 💻 Interested in Software Development & Problem Solving  
-🚀 Actively preparing for SDE roles 
-✨ Upcoming Analyst at Capgemini!
+🚀 Actively preparing for SDE roles  
+✨ Upcoming Analyst at Capgemini
+
 
 
 ---
