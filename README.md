@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Interests!!
 ![Python](https://img.shields.io/badge/Python-blue)
 ![C++](https://img.shields.io/badge/C++-00599C)
 ![DSA](https://img.shields.io/badge/DSA-orange)
