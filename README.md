@@ -11,15 +11,18 @@
 
 ---
 
-### 📊 GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShravaniPD21&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ShravaniPD21&theme=tokyonight)
+![Shravani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShravaniPD21&show_icons=true&theme=default)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShravaniPD21&color=blue)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShravaniPD21&theme=default)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShravaniPD21&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
+
 
 ### 🛠 Tech Stack
 - Languages: Python, Java, C++
