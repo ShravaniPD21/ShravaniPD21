@@ -11,11 +11,17 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShravaniPD21&show_icons=true&theme=light" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShravaniPD21&show_icons=true" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=ShravaniPD21&theme=light" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShravaniPD21" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=ShravaniPD21&label=Profile%20Views&color=blue" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShravaniPD21&label=Profile%20Views&color=blue" />
+</p>
 
 ---
 
