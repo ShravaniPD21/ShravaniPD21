@@ -9,22 +9,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShravaniPD21&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShravaniPD21" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShravaniPD21&label=Profile%20Views&color=blue" />
-</p>
-
----
-
 
 
 ### 🛠 Tech Stack
