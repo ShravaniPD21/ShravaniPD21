@@ -9,6 +9,18 @@
 
 ---
 
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShravaniPD21&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShravaniPD21&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShravaniPD21&color=blue)
+
+---
+
 ### 🛠 Tech Stack
 - Languages: Python, Java, C++
 - Web: HTML, CSS, JavaScript
