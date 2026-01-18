@@ -9,19 +9,16 @@
 
 ---
 
----
-
----
-
 ## 📊 GitHub Stats
 
-![Shravani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShravaniPD21&show_icons=true&theme=default)
+<img src="https://github-readme-stats.vercel.app/api?username=ShravaniPD21&show_icons=true&theme=light" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ShravaniPD21&theme=default)
+<img src="https://streak-stats.demolab.com?user=ShravaniPD21&theme=light" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShravaniPD21&label=Profile%20views&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=ShravaniPD21&label=Profile%20Views&color=blue" />
 
 ---
+
 
 
 ### 🛠 Tech Stack
