@@ -1,9 +1,9 @@
 ## Hi 👋 I'm Shravani
 
-🎓 Final-year Engineering student  
+🎓 B.Tech Graduate from MIT-WPU Pune
 💻 Interested in Software Development & Problem Solving  
-🚀 Actively preparing for SDE roles  
-✨ Upcoming Analyst at Capgemini
+🚀 Full stack developer 
+✨ Associate Software Engineer at Capgemini
 
 
 
